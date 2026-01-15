@@ -1,0 +1,8 @@
+HOW TO RUN THE SCRAPER
+----------------------
+1. Install Python.
+2. Open your terminal/command prompt in this folder.
+3. Type: pip install -r requirements.txt
+4. Type: python Google_Maps_Scraper.py
+5. Follow the instructions on screen.
+6. Your data will be saved in the "Leads" folder.
